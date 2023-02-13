@@ -1,1 +1,2 @@
 # super-duper-python-practice
+A series of python practice problem sets. I hope that they are useful for anyone trying to learn python! (Be sure to avoid looking at the answers and try solving them yourself)
